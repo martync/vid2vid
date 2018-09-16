@@ -1,0 +1,9 @@
+cffi
+dominate
+numpy
+opencv-python
+Pillow
+requests
+scipy
+torch
+torchvisio
